@@ -7,7 +7,7 @@ public class C01_Variables {
         // JAva cok guzel
         // Bugün gitgub ı da ogrendim
         //puul la gitgubdab yaparız
-        / /java da git add .
+        //java da git add
             // git commit -m"
             //git push
             // gıthub da kalem ondan sonra altta commit changes
