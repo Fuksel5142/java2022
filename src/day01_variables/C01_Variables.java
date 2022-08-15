@@ -6,6 +6,7 @@ public class C01_Variables {
         System.out.printf("Hello Java, Hello World");
         // JAva cok guzel
         // Bugün gitgub ı da ogrendim
+        //puul la gitgubdab yaparız
         
     }
 }
